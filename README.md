@@ -16,19 +16,16 @@ A sleek and stylish profile card for **Xenon Esports**, showcasing links to soci
 - **CSS** for styling and animations
 - **Netlify** for deployment
 
-## 📜 How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/xenon-esports-card.git
-   ```
-2. Navigate to the project folder:
-   ```bash
-   cd xenon-esports-card
-   ```
-3. Open `index.html` in a browser to see the card in action.
+## 🎮 Connect with Us
+Stay connected with **Xenon Esports** through our social platforms:
+- 🌟 [Instagram](https://www.instagram.com/xenon_esports19/)
+- 📘 [Facebook](https://www.facebook.com/xenon.esports19)
+- 🎥 [YouTube](https://www.youtube.com/@TeamXenoneSports)
+- 🎮 [Discord](https://discord.gg/MFSFf28wpn)
+- 🎂 [Birthday Sheet](https://docs.google.com/spreadsheets/d/1OQYdwYAQd5PZkHspH9QrJzchKQwnQtfAHKK19UWD5E0/edit?gid=0#gid=0)
 
 ## 📧 Contact
 For any queries, reach out to **Xenon Esports** at:
 📩 officialteamxenon19@gmail.com
 
-Stay connected with **Xenon Esports**! 💚🚀
+Join the **XenFam** and be part of the legacy! 💚🚀
